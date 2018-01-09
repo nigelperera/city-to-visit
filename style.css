@@ -1,0 +1,31 @@
+body{
+	background-color: rgb(255,84,13);
+}
+h1{
+	color: blue;
+	background-color: rgba(238,68,71,0.78);
+	font-size: 50pt;
+	border : 1px green solid;
+	border-radius: 10px;
+}
+p{
+	color: yellow;
+	text-align: justify;
+	font-family: 'Roboto', sans-serif;
+	border : 5px green dashed;
+}
+h1,h2,h3{
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+}
+h2, h3{
+	color:grey;
+	border-top: 1px black solid;
+	border-bottom: 3px blue solid;
+}
+h2{
+	font-size: 30pt;
+}
+h3{
+	font-size: 15pt;
+}
